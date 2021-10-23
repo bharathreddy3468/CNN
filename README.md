@@ -14,7 +14,7 @@
 
 ## Demo
 
-[![](https://imgur.com/OYDAzwV.png)](https://imgur.com/Y4eBkLY)
+[![](https://imgur.com/OYDAzwV.png)](https://imgur.com/fibRSV9)
 
 ## Overview
 This is an Image Classification project which classifies wild animals (4-classes) using famous Transfer Learning technique vgg-16.
