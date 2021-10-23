@@ -1,7 +1,6 @@
 # Wild Animals
 
 ## Table of Content
-  * [Demo](#demo)
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Installation](#installation)
@@ -12,9 +11,6 @@
   * [Licence](#Licence)
 
 
-## Demo
-
-[![](https://imgur.com/prz2qTz)
 
 ## Overview
 This is an Image Classification project which classifies wild animals (4-classes) using famous Transfer Learning technique vgg-16.
